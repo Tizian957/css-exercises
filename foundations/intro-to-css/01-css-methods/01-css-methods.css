@@ -1,0 +1,20 @@
+div {
+    color: white;
+    background-color: red;
+    font-family: serif;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    color: white;
+    background-color: green;
+    font-family: serif;
+}
+
+button{
+    background-color: rgb(255, 193, 79);
+    border-color: lightgrey;
+}
